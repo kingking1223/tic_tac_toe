@@ -89,7 +89,6 @@ function startGame() {
     setBoardHoverClass()
     winningMessageElement.classList.remove('show')
     // computer1();
-    handleClick()
 }
 
 function handleClick(e) {
